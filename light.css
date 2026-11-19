@@ -2,7 +2,9 @@
   /* Light mode */
   background: hsl(30, 25%, 98%);
   --accent: hsl(14 80% 36%);
+  --hover-accent: hsl(14 80% 25%);
   --secondary: hsl(213 21% 42%);
+  --hover-secondary: hsl(213 21% 26%);
   --text: hsl(0 0% 0%);
 }
 

@@ -1,8 +1,10 @@
 :root {
   /* Dark mode */
   background: hsl(213, 21%, 10%);
-  --accent: hsl(14, 84%, 59%);
+  --accent: hsl(14, 84%, 60%);
+  --hover-accent: hsl(14, 84%, 30%);
   --secondary: hsl(215, 15%, 66%);
+  --hover-secondary: hsl(215, 15%, 33%);
   --text: hsl(43, 22%, 84%);
 }
 
