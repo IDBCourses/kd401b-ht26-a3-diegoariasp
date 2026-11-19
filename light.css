@@ -1,0 +1,22 @@
+:root {
+  /* Light mode */
+  background: hsl(30, 25%, 98%);
+  --accent: hsl(14 80% 36%);
+  --secondary: hsl(213 21% 42%);
+  --text: hsl(0 0% 0%);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--accent);
+}
+
+p {
+  color: var(--text);
+}
+
+a, ul {
+  color: var(--secondary);
+}
